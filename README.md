@@ -1,3 +1,5 @@
 # TIL
 
-My first commit test
+## 목적
+
+매일 조금씩이라도 배움을 놓지 않기 위해서 TIL을 github에 기록하려고 한다.
